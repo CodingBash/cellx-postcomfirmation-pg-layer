@@ -1,0 +1,1 @@
+This contains the packages needed for the AWS Lambda post-confirmation Node.js function. Specifically, the pg (postgres) node package is needed. To add layer, zip to nodejs folder and upload to lambda. 
