@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "deasync": "^0.1.15",
-    "pg": "^7.12.1"
+    "pg": "^8.11.0"
   }
 }
